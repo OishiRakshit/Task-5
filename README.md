@@ -20,6 +20,6 @@ By completing this task, you will gain:
 ----
 
 ## 📌 Protocols Identified
-DNS – For domain name resolution
-HTTP – For web browsing
-TCP – For connection and data transfer
+- DNS – For domain name resolution
+- HTTP – For web browsing
+- TCP – For connection and data transfer
